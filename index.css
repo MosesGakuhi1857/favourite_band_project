@@ -1,6 +1,29 @@
 p {
-    padding: 10px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 150px;
+
     font: 300;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: block;
+    color: lightcyan;
+    font-size: ;
 }
+h1 {
+    padding-top: 00px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 600px;
+    font: size 1000px;;
+}
+body {
+   background-color: black; 
+}
+h1 {
+   color: lightcoral;
+}
+img {
+    padding-left: 400px; 
+    padding-top: 0px;
+}
+
