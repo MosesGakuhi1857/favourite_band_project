@@ -26,4 +26,20 @@ img {
     padding-left: 400px; 
     padding-top: 0px;
 }
+h3 {
+    color:lightcoral;
+    padding-left: 600px;
+}
+h2{
+    color: lightseagreen;
+    padding-left: 600px;
+}
+p2 {
+    color:lightcyan;
+    display: block;
+    padding-left: 150px;
+    
+    
+
+}
 
