@@ -1,7 +1,7 @@
 p {
     padding-top: 10px;
     padding-right: 50px;
-    padding-left: 150px;
+    padding-left: 0px;
 
     font: 300;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -13,7 +13,7 @@ h1 {
     padding-top: 00px;
     padding-right: 0px;
     padding-bottom: 0px;
-    padding-left: 600px;
+    padding-left: 0px;
     font: size 1000px;;
 }
 body {
@@ -23,23 +23,36 @@ h1 {
    color: lightcoral;
 }
 img {
-    padding-left: 400px; 
+    float: right;
+    border-radius: 70%;
+    padding-left: 50px; 
     padding-top: 0px;
+    padding-bottom: 50px;
+    border-style:inset;
+    border-color: lightcoral;
 }
 h3 {
     color:lightcoral;
-    padding-left: 600px;
+    padding-left: 0px;
 }
 h2{
     color: lightseagreen;
-    padding-left: 600px;
+    padding-left: 150px;
 }
 p2 {
     color:lightcyan;
-    display: block;
-    padding-left: 150px;
+    display: inline;
+    padding-left: 0px;
     
-    
-
 }
-
+p3 {
+    display: inline-block;
+}
+div { 
+    padding-block: 100px; 
+    border-radius: 50%;
+    padding-left: 100px;
+    padding-bottom: 0px; 
+    font-size: 2pc;
+}
+ul { background-color: lightcoral;}
