@@ -3,10 +3,10 @@ p {
     padding-right: 50px;
     padding-left: 0px;
 
-    font: 300;
+    font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: block;
-    color: lightcyan;
+    color: rgb(224, 251, 255);
     font-size: ;
 }
 h1 {
@@ -14,7 +14,7 @@ h1 {
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px;
-    font: size 1000px;;
+    font-size: 30px;
 }
 body {
    background-color: black; 
@@ -24,7 +24,7 @@ h1 {
 }
 img {
     float: right;
-    border-radius: 70%;
+    border-radius: 100%;
     padding-left: 50px; 
     padding-top: 0px;
     padding-bottom: 50px;
@@ -34,25 +34,30 @@ img {
 h3 {
     color:lightcoral;
     padding-left: 0px;
+    font-size:30px ;
 }
 h2{
     color: lightseagreen;
     padding-left: 150px;
+    font-size: 30px;
 }
 p2 {
-    color:lightcyan;
+    color:rgb(224, 251, 255);
     display: inline;
     padding-left: 0px;
+    font-size: 20px;
     
 }
 p3 {
     display: inline-block;
+    font-size: 15px;
 }
 div { 
     padding-block: 100px; 
-    border-radius: 50%;
+    border-radius: 20%;
     padding-left: 100px;
     padding-bottom: 0px; 
     font-size: 2pc;
 }
-ul { background-color: lightcoral;}
+ul { background-color: rgb(192, 162, 26);}
+
